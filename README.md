@@ -1,2 +1,2 @@
 # rperezIndex
-This repository is a collection of my personal repositories and ptojects.
+This repository is a collection of my personal repositories and projects.
